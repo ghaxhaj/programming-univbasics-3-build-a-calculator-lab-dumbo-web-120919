@@ -27,3 +27,6 @@ def square_root(num)
   sqrt=math.sqrt(num1)
 
 end
+
+num1=12
+num2=14
