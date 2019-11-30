@@ -26,7 +26,7 @@ end
 
 def square_root(num1)
   puts "sqrt"
-  sqrt=math.sqrt(num1)
+  sqrt= Math.sqrt(num1)
 end
 
 num1=12
