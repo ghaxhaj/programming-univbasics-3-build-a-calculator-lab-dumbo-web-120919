@@ -4,28 +4,28 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-  puts minus
+  puts "minus"
   minus = num1-num2
 end
 
 def division(num1, num2)
-  puts quotient
+  puts "quotient"
   quotient = num1/num2
 end
 
 def multiplication(num1, num2)
-  puts product
+  puts "product"
   product = num1*num2
 end
 
 def modulo(num1, num2)
-  puts remainder
+  puts "remainder"
   remainder= num1%num2
 
 end
 
 def square_root(num1)
-  puts sqrt
+  puts "sqrt"
   sqrt=math.sqrt(num1)
 end
 
